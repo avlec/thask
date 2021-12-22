@@ -26,6 +26,17 @@
 *.a
 *.lib
 
+# CMake files
+CMakeCache.txt
+CMakeFiles/*
+cmake_install.cmake
+compile_commands.json
+Makefile
+.cache
+DartConfiguration.tcl
+thask_tester*
+CTestTestfile.cmake
+
 # Executables
 *.exe
 *.out
